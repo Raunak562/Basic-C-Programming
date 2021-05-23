@@ -3,7 +3,7 @@
 // Including header file "Standard Input/Output" using a Preprocessor Directive.
 #include <stdio.h>
 
-// main() fucntion.
+// main() function.
 int main()
 {
     // Declaring the two variables of datatype 'integer' to store the value.
